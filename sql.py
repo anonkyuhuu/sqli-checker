@@ -1,4 +1,4 @@
 import os
 
-os system('clear')
+os.system('clear')
 print("Maaf tools ini sedang ditutup")

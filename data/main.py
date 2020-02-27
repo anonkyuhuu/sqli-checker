@@ -39,9 +39,9 @@ def single_test():
 	time.sleep(7)
 	b = r.get(web+"%27").text
 	if "You have an error in your SQL syntax" not in b:
-		print("{}Not Vuln {}> {}".format(R,BL,web))
+		print("{}Not Vuln {}> {}{}".format(R,BL,W,web))
 	else:
-		print("{}Vuln {}> {}".format(GL,BL,web))
+		print("{}Vuln {}> {}{}".format(GL,BL,W,web))
 
 def multi_test():
 	os.system('clear')

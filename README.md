@@ -1,4 +1,4 @@
-# test-vuln
+# sqli-checker
 
 
-Sebuah tools yg otomatis vulnereable suatu website.
+Sebuah tools yg mencari bug sql pada website secara otomatis

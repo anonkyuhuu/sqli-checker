@@ -24,7 +24,7 @@ logo=('''
 \x1b[37;1m   /\_.|__|\x1b[37;1m'-.__/\_\x1b[32;1m   Team  \x1b[37;1m : Cyber Ghost ID
 \x1b[37;1m  / (        /     \  \x1b[32;1mVerion \x1b[37;1m: 0.1
 \x1b[37;1m  \  \      (      /
-\x1b[37;1m   )  '._____)    /   \x1b[32;1mFungsi \x1b[37;1m: Test Vulns Web
+\x1b[37;1m   )  '._____)    /   \x1b[32;1mFungsi \x1b[37;1m: Sql Vuln Checker
 \x1b[37;1m(((____.--(((____/
 ''')
 
